@@ -7,15 +7,15 @@
 ---
 
 ### 🚀 About Me
-- 🧠 I love building full-stack apps with **React**, **Next.js**, **Django** and **Express**
-- 🛠️ Working with: `TypeScript`, `Tailwind`, `PostgreSQL`, `Drizzle`, `Docker`
-- 🌏 Based in Nepal 🇳🇵
+- 🧠 Passionate about building full-stack applications powered by AI.
+- 🛠️ Tech I use: TypeScript, Next.js, Tailwind CSS, PostgreSQL, Drizzle ORM, Docker, Django, Express.js
+- 🌍 Living and building from Nepal 🇳🇵
 
 ---
 
 ### 🧰 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,django,ts,tailwind,postgres,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,django,ts,tailwind,postgres,docker,vercel,ubuntu" />
 </p>
 
 ---
