@@ -30,7 +30,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prapanna-bista-7980311b2/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prapanna-bista-7980311b2)
 [![Portfolio](https://img.shields.io/badge/portfolio-000?logo=vercel&logoColor=white)](https://prapannabista.com.np)
 [![Email](https://img.shields.io/badge/email-ea4335?logo=gmail&logoColor=white)](mailto:bistaprapannabista@gmailcom)
 
