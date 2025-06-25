@@ -23,8 +23,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bistaprapannabista&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bistaprapannabista&theme=tokyonight" width="49%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=bistaprapannabista&theme=dark&hide_border=false" />
 </p>
 
 ---
