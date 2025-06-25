@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Prapanna 👋</h1>
 
 <p align="center">
-  Web Developer · Backend Engineer · ML Enthusiast
+  Software Engineer · AI Enthusiast
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🧠 I love building full-stack apps with **React**, **Next.js**, and **Django**
-- 🎯 Currently exploring **AI-assisted writing/speaking evaluation** tools
+- 🧠 I love building full-stack apps with **React**, **Next.js**, **Django** and **Express**
 - 🛠️ Working with: `TypeScript`, `Tailwind`, `PostgreSQL`, `Drizzle`, `Docker`
 - 🌏 Based in Nepal 🇳🇵
 
@@ -24,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bistaprapannabista&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bistaprapannabista&theme=tokyonight" width="49%" />
 </p>
 
 ---
