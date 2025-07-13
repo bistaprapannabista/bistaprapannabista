@@ -33,8 +33,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bistaprapannabista&show_icons=true&theme=tokyonight&hide_border=false" alt="Prapanna's GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bistaprapannabista&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
