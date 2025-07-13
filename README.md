@@ -16,7 +16,7 @@
 
 - 🧠 I'm a passionate **Full-Stack Developer** and **AI Enthusiast** who loves turning ideas into impactful digital solutions.
 - 💻 I specialize in **TypeScript**, **Next.js**, **Tailwind CSS**, and **Django**, building clean and scalable apps.
-- 📍 Based in Nepal 🇳🇵.
+- 🌍 Based in Nepal 🇳🇵, collaborating globally.
 - 📊 Actively building AI-powered tools and scalable backend systems.
 - 🌱 Always learning, always evolving currently exploring LLMs and edge/serverless computing.
 
